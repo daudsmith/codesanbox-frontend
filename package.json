@@ -1,0 +1,33 @@
+{
+  "name": "firstclass-frontend-findout-forked",
+  "version": "0.0.8",
+  "private": true,
+  "scripts": {
+    "start": "next start",
+    "build": "next build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "dev": "next dev",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/server": "^11.10.0",
+    "@emotion/styled": "^11.10.5",
+    "@mui/icons-material": "^5.11.0",
+    "@mui/material": "^5.11.7",
+    "@next/font": "^13.1.6",
+    "axios": "^1.2.2",
+    "bootstrap": "^5.2.3",
+    "next": "13.0.7",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.7.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.7.1",
+    "react-router-dom": "^6.6.2"
+  },
+  "description": null,
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  }
+}
