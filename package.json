@@ -1,13 +1,11 @@
 {
-  "name": "firstclass-frontend-findout-forked",
-  "version": "0.0.8",
+  "name": "role-challenge-frontend",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
-    "start": "next start",
-    "build": "next build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject",
     "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
@@ -25,9 +23,5 @@
     "react-dom": "^18.2.0",
     "react-icons": "^4.7.1",
     "react-router-dom": "^6.6.2"
-  },
-  "description": null,
-  "devDependencies": {
-    "react-scripts": "1.0.0"
   }
 }
